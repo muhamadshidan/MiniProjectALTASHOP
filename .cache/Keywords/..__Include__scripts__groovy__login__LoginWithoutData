@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "CEDC04AE91B4411EBF88252300D77B75",
+  "keywordClasses": [
+    {
+      "name": "login.LoginWithoutData",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

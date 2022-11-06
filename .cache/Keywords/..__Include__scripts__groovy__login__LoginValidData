@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "DF30F24E0C902833E939A66E9C74F32D",
+  "keywordClasses": [
+    {
+      "name": "login.LoginValidData",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

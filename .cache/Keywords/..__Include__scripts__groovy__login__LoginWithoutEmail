@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "0AF4B2B1ED912E5266F0D61B087A88C5",
+  "keywordClasses": [
+    {
+      "name": "login.LoginWithoutEmail",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

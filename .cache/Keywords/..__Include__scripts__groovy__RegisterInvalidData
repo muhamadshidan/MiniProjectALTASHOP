@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "7BC54FDA9E0156C5728B3D433C3DF1A8",
+  "keywordClasses": [
+    {
+      "name": "RegisterInvalidData",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

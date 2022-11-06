@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "5F8B97EF7C15A5A3EAD085C8DAEC229C",
+  "keywordClasses": [
+    {
+      "name": "login.LoginInvalidData",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "75CDC0D5ADF822038B96169CA69235D1",
+  "keywordClasses": [
+    {
+      "name": "RegisterWithoutEmail",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

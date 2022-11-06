@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_play has no limits_v-icon notranslate fas_c5a26b_1</name>
+   <tag></tag>
+   <elementGuidId>55c53d15-1ec0-4386-9854-4ac7f577a4bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#15 > div.v-card.v-sheet.theme--light > div.v-card__actions.d-block > div.row > div.col > i.v-icon.notranslate.fas.fa-star.theme--light</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='15']/div/div[3]/div/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ef5ed2a6-21e0-4bae-a335-5b6b776d5851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3ebfcfe3-5c94-4697-b459-85e6ccfe90b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate fas fa-star theme--light</value>
+      <webElementGuid>95c29c1d-2cd8-4690-b251-ee11ff522980</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;15&quot;)/div[@class=&quot;v-card v-sheet theme--light&quot;]/div[@class=&quot;v-card__actions d-block&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/i[@class=&quot;v-icon notranslate fas fa-star theme--light&quot;]</value>
+      <webElementGuid>7f62bdbe-2457-4a1b-910e-7310457ed6e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='15']/div/div[3]/div/div/i</value>
+      <webElementGuid>7119088d-f5bd-4a72-81d8-53b4a56cde00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div/div/i</value>
+      <webElementGuid>07e8b20c-687d-4238-988d-af4105fe31ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
